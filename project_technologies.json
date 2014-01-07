@@ -1,0 +1,21 @@
+{
+    "technologies": {
+        "apis": [
+            "insert api",
+            "insert api"
+        ],
+        "platforms": [
+            "insert platform",
+            "insert platform"
+        ],
+        "toolkits": [
+            "insert toolkit",
+            "insert toolkit"
+        ]
+    },
+    "themes": [
+        "insert theme",
+        "insert theme"
+    ]
+}
+
