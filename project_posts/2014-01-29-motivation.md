@@ -1,6 +1,3 @@
-
-#motivation
-
 One of the things I enjoy about radio is this notion of liveness, that someone somewhere is talking, singing, shouting at you through the air, and the fact that you can easily scan through cultures by changing the dial.  In NYC for example, when you step into a cab you can just as easily hear an meringue music or someone on the radio speaking french, etc.  There’s something very universal about this. 
 
 When I first discovered the internet (back when web-rings were big!), internet radio was one of the first streaming medias there was to consume.  I found things like real player and shoutcast.  There was something very magical about the web at that time, it was kind of the wild west, and internet radio always brings me back there. 
