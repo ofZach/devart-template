@@ -1,4 +1,4 @@
-# Play the world (tentative title)
+# Play the world
 
 ## Authors
 - Zach Lieberman - https://github.com/ofZach
