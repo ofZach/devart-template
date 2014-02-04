@@ -1,21 +1,16 @@
 {
     "technologies": {
         "apis": [
-            "insert api",
-            "insert api"
+            "geolocation api"
         ],
         "platforms": [
-            "insert platform",
-            "insert platform"
+            "compute engine"
         ],
         "toolkits": [
-            "insert toolkit",
-            "insert toolkit"
+            "openframeworks"
         ]
     },
     "themes": [
-        "insert theme",
-        "insert theme"
+        "audio"
     ]
 }
-
