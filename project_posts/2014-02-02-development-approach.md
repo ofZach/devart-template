@@ -1,4 +1,4 @@
-#initial experiments
+##initial experiments
 
 So my first question to answer is how to build this project?  Alot of times I find I get myself into trouble through the proposal and making the artwork is getting myself out of trouble.   
 
