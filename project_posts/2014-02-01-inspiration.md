@@ -47,9 +47,9 @@ Parag Mital - Visual Similarity Videos
 
 [Parag Mital](http://pkmital.com/home/) is a academic researcher who generates amazing artwork based on his findings - he’s been focusing on visual similarity, using small parts of images to match other images, reconstituting videos with fragments of imagery from other videos.   I find his work visually stunning, 
 
-- [http://vimeo.com/51341754]()
-- [http://vimeo.com/75163057]()
-- [http://vimeo.com/49770274]()
+- [http://vimeo.com/51341754](http://vimeo.com/51341754)
+- [http://vimeo.com/75163057](http://vimeo.com/51341754)
+- [http://vimeo.com/49770274](http://vimeo.com/51341754)
 
 In the last video, he uses the content of the video itself to formulate newer things the video sees.  There’s a moment in that video where the camera, pointed at a keyboard, replaces all the keys with the letter ‘k’ since all the keys look like that tiny fragment.   To me this represents something magical about computation and fragmentary matching, that this is the kind of hallucination of the computer, how the computer dreams.   
 
