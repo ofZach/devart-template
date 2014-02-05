@@ -1,4 +1,4 @@
-Some projects that are influences: 
+Here's a quick look at some projects that are big influences for me.  I find it useful as I'm working on a project to develop almost a catalog of other projects to look at for inspiration and to try to focus on the messages / techniques / etc.  
 
 David Byrne, Brian Eno  My Life in the Bush of Ghosts 
 
