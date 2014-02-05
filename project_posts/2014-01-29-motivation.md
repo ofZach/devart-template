@@ -8,7 +8,6 @@ Finally, I’m intrigued with granular approaches to media - if we cut down imag
 
 > "The world is full of objects, more or less interesting; I do not wish to add any more.
 
-
-I think there’s something really beautiful about using the material out there in new ways.
+I think there’s something really beautiful about using all the material out there in new ways.
 
 
