@@ -1,4 +1,4 @@
-#Sources of inspiration
+##Sources of inspiration
 
 David Byrne, Brian Eno  My Life in the Bush of Ghosts 
 
