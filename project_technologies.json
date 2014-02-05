@@ -1,10 +1,10 @@
 {
     "technologies": {
         "apis": [
-            "geolocation api"
+            "google geolocation api"
         ],
         "platforms": [
-            "compute engine"
+            "google compute engine"
         ],
         "toolkits": [
             "openframeworks"
