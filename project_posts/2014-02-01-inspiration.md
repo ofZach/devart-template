@@ -58,4 +58,4 @@ Listening Post - Ben Rubin / Mark Hansen
 
 ![listening post](http://earstudio.com/wp-content/uploads/2010/01/4191127272_3dfa6e6333_b.jpg)
 
-On a personal note, this is my all time favorite media artwork.  What I love about it is that attempts to collect and live in a data stream, and it shows both the individual voice and the collective voice.   
+On a personal note, this is my all time favorite media artwork.  I still remember setting up in a room next to this one at Ars Electronica and hearing the test computer voices while the system was warming up, and later, sitting on the floor in front of it.  It's probably one of the only media art projects that brought me to tears.  One thing I love about it is that attempts to collect and live in a data stream (as opposed to abstract and visualize), and it shows both the individual voice and the collective voice.  
