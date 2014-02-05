@@ -1,4 +1,4 @@
-##Sources of inspiration
+Some projects that are influences: 
 
 David Byrne, Brian Eno  My Life in the Bush of Ghosts 
 
