@@ -2,7 +2,7 @@
 
 David Byrne, Brian Eno  My Life in the Bush of Ghosts 
 
-<img src="http://upload.wikimedia.org/wikipedia/en/9/9c/My_Life_in_the_Bush_of_Ghosts_2.jpg" width="286px" alt="alttext" />
+https://www.youtube.com/watch?v=rONasb9H24Y
 
 [This album](http://en.wikipedia.org/wiki/My_Life_in_the_Bush_of_Ghosts_(album)) from the 1980’s was one of the first to use sampling as the foreground, and I’ve constantly looked to it as a source of inspiration.  Can you paint sonically with short pieces of sound?    This album suggests interesting ways of working with human voice and processing it algorithmically.  Eno says, 
 
