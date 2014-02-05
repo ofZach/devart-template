@@ -12,7 +12,7 @@ Here we are playing those notes the system has found, with very little context a
 
 https://www.youtube.com/watch?v=dqMZXBcOyiY
 
-it's more musical then before, but still not great.  We have alot of work to do.  
+it's more musical then before, but still not really that great.  We have alot of work to do!  (note, we also dont' have a lot of samples here which is why this sounds repetitive). 
 
 At this point in the project, everything kinds of looks like a chart :)  sometimes the charts look quite nice and magical, like this smoothed pitch readout that looks like a city: 
 
