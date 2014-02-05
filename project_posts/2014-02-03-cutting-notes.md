@@ -18,7 +18,17 @@ At this point in the project, everything kinds of looks like a chart :)  sometim
 
 ![image](../project_images/screenshots/cities.png)
 
-Another thing we are starting to research is chroma, which identifies notes, not pitches, of a sound.  It doesn't distinguish the octave -- just if it's a C or E note in the sound that's playing.  We've got a feeling like this might prove to be really helpful.
+Another thing we are starting to research is chroma, which identifies notes, not pitches, of a sound.  It doesn't distinguish the octave -- just if it's a C or E note in the sound that's playing.  
+
+We were encourage by an email from a researcher in melody extraction, [Benoit Fuentes](benoit-fuentes.fr), who writes: 
+
+> Maybe you've tried too precise and sofisticated algorithms, not so robust to noise and polyphonic music.
+> If I were you, I would consider radio samples as a texture defined by two parameters :
+>  - the maximum of the chroma (http://labrosa.ee.columbia.edu/matlab/chroma-ansyn/) corresponding to the main pitch, regardless of its octave 
+>  - the spectral centroid (http://en.wikipedia.org/wiki/Spectral_centroid), corresponding to the brightness of the sound
+
+
+We've got a feeling like this might prove to be really helpful.  
 
 ![image](../project_images/screenshots/chroma.png)
 
