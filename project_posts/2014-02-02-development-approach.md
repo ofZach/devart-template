@@ -14,4 +14,4 @@ the other question is how much context to put around a note?  For this first exp
 
 here's the initial test.  It doesn't sound very good (!), but I sort of figured at the beginning it won't, and over the next weeks and months I will work hard to make it much more musical.  Also, note that there's some repetition here since I don't have a huge database of "note" samples yet.  That said, here is a short clip of me playing with that initial system:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/133024588&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+https://soundcloud.com/thesystemis/jan-9-testing/
