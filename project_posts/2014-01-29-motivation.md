@@ -8,7 +8,7 @@ Also, we are so often really unaware of our orientation in the world.  For examp
 
 Finally, I’m intrigued with granular approaches to media - if we cut down images / sounds / text into small, malleable pieces what can build with them?   The poet <a href="http://en.wikipedia.org/wiki/Kenneth_Goldsmith" target="_blank">Kenneth Goldsmith</a> quotes the conceptual artist, <a href="http://en.wikipedia.org/wiki/Douglas_Huebler" target="_blank">Douglas Huebler</a>, when describing his <a href="http://chronicle.com/article/Uncreative-Writing/128908/" target="_blank">style of teaching uncreative writing</a> (where the students are not allowed to write any new words),  
 
-> "The world is full of objects, more or less interesting; I do not wish to add any more.
+> The world is full of objects, more or less interesting; I do not wish to add any more.
 
 I think there’s something really beautiful about using all the material out there in new ways.
 
