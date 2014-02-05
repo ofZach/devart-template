@@ -28,10 +28,13 @@ We were encourage by an email from a researcher in melody extraction, [Benoit Fu
 >  - the spectral centroid (http://en.wikipedia.org/wiki/Spectral_centroid), corresponding to the brightness of the sound
 
 
-We've got a feeling like this might prove to be really helpful.  
+We've got a feeling like this might prove to be really helpful.  This is a screenshot of a chroma analysis of a small audio sample.  I am using sonic visualizer (http://www.sonicvisualiser.org/), a tool for testing VAMP plugins, and the NNLS chroma plugin (http://isophonics.net/nnls-chroma). 
 
 ![image](../project_images/screenshots/chroma.png)
 
-(as a side note, if you are into image processing, check out this article about chroma used for audio identification: http://acoustid.org/chromaprint / https://oxygene.sk/2011/01/how-does-chromaprint-work/)
+as a side note, if you are into image processing, check out chromaprint and this article about chroma used for audio identification: 
+
+- http://acoustid.org/chromaprint
+- https://oxygene.sk/2011/01/how-does-chromaprint-work/
 
 
