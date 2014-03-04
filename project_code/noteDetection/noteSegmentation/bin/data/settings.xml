@@ -1,0 +1,90 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>FPS SLIDER</Name>
+    <Value>60.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>save</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>LPF cutoff</Name>
+    <Value>20000.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>LPF resonance</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>42</Kind>
+    <Name>MF numPValues</Name>
+    <Value>6</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Coarse Threshold</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Fine Threshold</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Coarse/Fine</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Min duration</Name>
+    <Value>25.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>42</Kind>
+    <Name>Min pitch</Name>
+    <Value>20</Value>
+</Widget>
+<Widget>
+    <Kind>42</Kind>
+    <Name>nFrames</Name>
+    <Value>25</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>stdDev Thresh</Name>
+    <Value>5.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Audio Volume</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Sampler volume</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>process offline</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>saving notes</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>play midi</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>play samples</Name>
+    <Value>0</Value>
+</Widget>
