@@ -10,3 +10,5 @@ I'll try to write more about the books as I get into them.  For now, if you are 
 - http://newbooksinscitechsoc.com/2013/10/10/jonathan-sterne-mp3-the-meaning-of-a-format-duke-up-2012/
 
 (the noise interview ironically has a ton of feedback, but it's quite interesting if you can ignore it) 
+
+
